@@ -24,31 +24,34 @@ Before setting up and using the Crop Recommendation System, ensure you have the 
 
 **Python Libraries:** The system relies on various Python libraries and packages. Ensure you have the following libraries installed:
 
-*pandas
-*pandas_profiling
-*numpy
-*seaborn
-*matplotlib
-*scikit-learn
-*plotly
-*pickle
+- pandas
+- pandas_profiling
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
+- plotly
+- pickle
 You can install these libraries using the following command:
 
 pip install pandas pandas_profiling numpy seaborn matplotlib scikit-learn plotly pickle
 
-**Crop Recommendation Dataset:** Download the Crop recommendation dataset from [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset). The dataset contains historical agricultural data. 
+**Crop Recommendation Dataset:** Download the Crop recommendation dataset from [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset). 
+
+The dataset contains historical agricultural data. 
+
 Place the downloaded dataset (Crop_recommendation.csv) in the project directory.
 
 # Installation
  *Follow these steps:*
  
-*Clone the repository to your local machine using the following command:
+- Clone the repository to your local machine using the following command:
 git clone https://github.com/ramya-bashkaran/Crop_Recommendation_System
 
-*Navigate to the project directory:
+- Navigate to the project directory:
 cd crop-recommendation
 
-*Install the required dependencies by running the following command:
+- Install the required dependencies by running the following command:
 pip install -r requirements.txt
 
 # Contributing
