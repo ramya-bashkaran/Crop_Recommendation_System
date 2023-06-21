@@ -2,6 +2,8 @@
  A machine learning project that aims to assist farmers in making informed decisions about crop selection. By leveraging various machine learning algorithms and ensemble techniques, the system provides recommendations based on input parameters such as soil type, temperature, humidity, rainfall, and crop nutrient requirements.
  
 **The project involves the following steps:**
+
+
 ***Data-driven Recommendations:*** The system utilizes historical agricultural data and machine learning models to recommend the most suitable crops based on specific environmental and soil conditions.
 
 ***Ensemble Modeling:*** Multiple machine learning algorithms, such as Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Tree, Gaussian Naive Bayes, and Support Vector Machine, are combined through ensemble techniques to improve the accuracy and robustness of the recommendations.
@@ -45,17 +47,11 @@ Place the downloaded dataset (Crop_recommendation.csv) in the project directory.
 # Installation
  *Follow these steps:*
  
-- Clone the repository to your local machine using the following command:
+- Clone the repository to your local machine using the following command:[Click here](https://github.com/ramya-bashkaran/Crop_Recommendation_System)
 
-[git clone](https://github.com/ramya-bashkaran/Crop_Recommendation_System)
+- Navigate to the project directory: cd crop-recommendation
 
-- Navigate to the project directory:
-
-cd crop-recommendation
-
-- Install the required dependencies by running the following command:
-
-pip install -r requirements.txt
+- Install the required dependencies by running the following command: pip install -r requirements.txt
 
 # Contributing
 Contributions to the Crop Recommendation System project are welcome. If you encounter any issues, have suggestions for improvements, or would like to add new features, please submit a pull request or raise an issue in the GitHub repository.
