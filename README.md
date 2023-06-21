@@ -48,7 +48,7 @@ Place the downloaded dataset (Crop_recommendation.csv) in the project directory.
  
 - Clone the repository to your local machine using the following command: [Click here](https://github.com/ramya-bashkaran/Crop_Recommendation_System)
 
-- Navigate to the project directory: cd crop-recommendation
+- Navigate to the project directory: cd crop_recommendation_ML_model
 
 - Install the required dependencies by running the following command: pip install -r requirements.txt
 
